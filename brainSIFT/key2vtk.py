@@ -1,3 +1,6 @@
+# Adapted from: https://github.com/PaulJaulhiac/niftiConcrete/blob/6b566bfc7ff9cb7ea7aae3e7536d713d16fec34e/convertKey2Vtk.py
+
+
 import os
 import pandas as pd
 import vtk
